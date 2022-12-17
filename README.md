@@ -1,28 +1,12 @@
 
-![1](https://user-images.githubusercontent.com/45713796/98271308-d18aac80-1fb5-11eb-9db3-dda942cc1b07.png)
 
-**TITLE**
-**Kitabe** (*Book in Hindi*) is a Book Recommendation System built for all you Book Lovers📖.
+# **Title: Kitabe**
 
 See [Demo](#user-content-demo-) 🎥
 
 
 
-
-### Demo 🎥
-
-![kitabe](https://user-images.githubusercontent.com/45713796/98460071-f6a23980-21c6-11eb-881f-ba0f75896751.gif)<br>
-[Live Application](https://kitabe.up.railway.app/) 🌐
-
-### Objective ✍
-Our objective is to build an application for all Book Lovers ♥ like us out there where all you have to
-do is rate some of your favorite books and the application will do it's **voodoo magic** 🧙‍♂️ and give you some more books that you may **love😍 to read**.
-
-### Dataset 🧾
-The Dataset that we used for this task is the [goodbooks-10k](https://github.com/zygmuntz/goodbooks-10k) dataset. It consists of 10k books with a total of 6 million ratings. That's huge right! 😮. There are some more huge datasets such as [Book-Crossings](http://www2.informatik.uni-freiburg.de/~cziegler/BX/) but they are kinda old 😬.
-
-**Methodology**
-```
+## **1. Methodology**
 GoodBooks10k
     ├── books.csv         # Contains book info with book-id
     ├── ratings.csv       # Maps user-id to book-id and rating
@@ -55,16 +39,42 @@ We used the book embedding as a representation of the books to infer underlying 
 
 > 🛠 Code for every step can be found in the [Notebooks and Files](#notebooks-and-files) Section.
 
+### Demo 🎥
 
+![kitabe](https://user-images.githubusercontent.com/45713796/98460071-f6a23980-21c6-11eb-881f-ba0f75896751.gif)<br>
+[Live Application](https://kitabe.up.railway.app/) 🌐
+
+### Objective ✍
+Our objective is to build an application for all Book Lovers ♥ like us out there where all you have to
+do is rate some of your favorite books and the application will do it's **voodoo magic** 🧙‍♂️ and give you some more books that you may **love😍 to read**.
+
+### Dataset 🧾
+The Dataset that we used for this task is the [goodbooks-10k](https://github.com/zygmuntz/goodbooks-10k) dataset. It consists of 10k books with a total of 6 million ratings. That's huge right! 😮. There are some more huge datasets such as [Book-Crossings](http://www2.informatik.uni-freiburg.de/~cziegler/BX/) but they are kinda old 😬.
+
+**Methodology**
+```
+
+## **2. Description**
+
+
+
+## **3. Input / Output**
+The [Image](https://coggle.it/diagram/X6TOUxlMvSl8FBM4/t/dataset/7083ac4f2de39517a4d97cd9d3d211c11af6e65f9a0034c46d613ff0f9cd5) says it All.
+![coggle](https://user-images.githubusercontent.com/45713796/98331008-ae95e200-2021-11eb-915b-892854f88a6e.png)
+
+
+## **4. Live link**
 
 [Live Application](https://kitabe.up.railway.app/) 🌐
 
 
+## **5. Screenshot of the Interface**
+![1](https://user-images.githubusercontent.com/45713796/98271308-d18aac80-1fb5-11eb-9db3-dda942cc1b07.png)
 
 ### Screenshot of interface 😁
-The [Image](https://coggle.it/diagram/X6TOUxlMvSl8FBM4/t/dataset/7083ac4f2de39517a4d97cd9d3d211c11af6e65f9a0034c46d613ff0f9cd5) says it All.
 
-![coggle](https://user-images.githubusercontent.com/45713796/98331008-ae95e200-2021-11eb-915b-892854f88a6e.png)
+
+
 
 
 
