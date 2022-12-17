@@ -2,9 +2,7 @@
 ![1](https://user-images.githubusercontent.com/45713796/98271308-d18aac80-1fb5-11eb-9db3-dda942cc1b07.png)
 
 
-**Kitabe** (*Book in Hindi*) is a Book Recommendation System built for all you Book Lovers📖.
-Simply Rate ⭐ some books and get immediate recommendations tailored for you 🤩.<br>
-See [Demo](#user-content-demo-) 🎥
+
 
 [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://kitabe.up.railway.app/)
 [![Build Status](https://travis-ci.com/Praful932/Kitabe.svg?token=XKcoN48yFyATXWUZ6d8j&branch=master)](https://travis-ci.com/Praful932/Kitabe)
@@ -14,23 +12,9 @@ See [Demo](#user-content-demo-) 🎥
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Praful932/Kitabe/graphs/commit-activity)
 ![GitHub stars](https://img.shields.io/github/stars/Praful932/Kitabe?style=social) ![GitHub forks](https://img.shields.io/github/forks/Praful932/Kitabe?style=social) ![GitHub watchers](https://img.shields.io/github/watchers/Praful932/Kitabe?style=social)
 
-For Contributing 💜 and setting Up head [here](https://github.com/Praful932/Kitabe/blob/master/CONTRIBUTING.md).
 
 # Contents
-- [Demo](#user-content-demo-) 🎥
-- [Approach](#objective-) 🧐
-    - [Objective](#objective-) ✍
-    - [Dataset](#dataset-) 🧾
-    - [PreProcessing](#preprocessing-) 🛠
-    - [Model Exploration](#model-exploration-) 🤯
-    - [Final Result](#final-result-) 😁
-- [Project Structure](#project-structure-%EF%B8%8F) 💁‍♀️
-- [To Do](#to-do-) 🎯
-- [Contribute](https://github.com/Praful932/Kitabe/blob/master/CONTRIBUTING.md) 🧏‍♂️
-- [Notebooks and Files](#notebooks-and-files-) 📓
-- [References](#references-) 😇
-- [Contributors](#contributors-) 🤗
-- [License](#license-) ✍
+
 
 ### Demo 🎥
 
