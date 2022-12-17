@@ -6,15 +6,6 @@
 
 See [Demo](#user-content-demo-) 🎥
 
-[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://kitabe.up.railway.app/)
-[![Build Status](https://travis-ci.com/Praful932/Kitabe.svg?token=XKcoN48yFyATXWUZ6d8j&branch=master)](https://travis-ci.com/Praful932/Kitabe)
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/Praful932/Kitabe/blob/master/CONTRIBUTING.md)
-[![GitHub license](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE) <br>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPraful932%2FKitabe&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Praful932/Kitabe/graphs/commit-activity)
-![GitHub stars](https://img.shields.io/github/stars/Praful932/Kitabe?style=social) ![GitHub forks](https://img.shields.io/github/forks/Praful932/Kitabe?style=social) ![GitHub watchers](https://img.shields.io/github/watchers/Praful932/Kitabe?style=social)
-
-For Contributing 💜 and setting Up head [here](https://github.com/Praful932/Kitabe/blob/master/CONTRIBUTING.md).
 
 
 
@@ -47,6 +38,8 @@ More Cleaning for `books.csv`
 - Missing Book Image URLs
 - Book & Rating Duplicates
 
+
+**Input /Output**
 ### Model Exploration 🤯
 For Recommendation Problems there are multiple approaches that are possible:
 - Embedding Matrix
@@ -62,7 +55,13 @@ We used the book embedding as a representation of the books to infer underlying 
 
 > 🛠 Code for every step can be found in the [Notebooks and Files](#notebooks-and-files) Section.
 
-### Final Result 😁
+
+
+[Live Application](https://kitabe.up.railway.app/) 🌐
+
+
+
+### Screenshot of interface 😁
 The [Image](https://coggle.it/diagram/X6TOUxlMvSl8FBM4/t/dataset/7083ac4f2de39517a4d97cd9d3d211c11af6e65f9a0034c46d613ff0f9cd5) says it All.
 
 ![coggle](https://user-images.githubusercontent.com/45713796/98331008-ae95e200-2021-11eb-915b-892854f88a6e.png)
