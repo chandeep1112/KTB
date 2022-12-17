@@ -4,7 +4,7 @@
 
 See [Demo](#user-content-demo-) 🎥
 
-
+![kitabe](https://user-images.githubusercontent.com/45713796/98460071-f6a23980-21c6-11eb-881f-ba0f75896751.gif)<br>
 
 ## **1. Methodology**
 GoodBooks10k
