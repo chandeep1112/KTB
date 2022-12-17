@@ -117,11 +117,7 @@ Kitabe
 
 ```
 
-### To Do 🎯
-- [X] Display Popular Books Among Users
-- [X] Add AJAX View Tests
-- [X] Add Model Tests
-- [X] Use a Better Approach than Count Vectorizer
+
 
 ### Notebooks and Files 📓
 - [All Dataset & Model Files](https://drive.google.com/drive/folders/1SvuCvfiSxwuF21EvmKyhSkuwjgK7KU6S?usp=sharing)
@@ -135,8 +131,7 @@ Kitabe
 - [Count Vectorizer](https://www.kaggle.com/sasha18/recommend-books-using-count-tfidf-on-titles)
 - [Books2Rec](https://github.com/dorukkilitcioglu/books2rec)
 
-### Contributors 🤗
-![2](https://contributors-img.web.app/image?repo=Praful932/Kitabe)
+
 
 ### License ✍
 ```
