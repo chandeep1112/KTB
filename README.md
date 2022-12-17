@@ -2,7 +2,6 @@
 
 # **Title: Kitabe**
 
-See [Demo](#user-content-demo-) 🎥
 
 
 
